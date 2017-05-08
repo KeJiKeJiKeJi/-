@@ -1,4 +1,4 @@
-# -
+# -translate
 移动的代码控制
 [RequireComponent(typeof(CharacterController))]
 public class ExampleClass : MonoBehaviour {
